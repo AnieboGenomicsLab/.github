@@ -18,10 +18,14 @@ The Aniebo Genomics Lab, based at the Institute of Genomics and Global Health (I
 ## 🏛 Affiliation
 
 Institute of Genomics and Global Health (IGH)
+
 🌐 Website: https://ighresearch.org/en/
+
 🔗 LinkedIn: https://www.linkedin.com/company/acegid-igh
 
 ## 📫 Contact
 
 Dr. Ifeyinwa Aniebo
+
 🔗 LinkedIn: https://www.linkedin.com/in/ifyaniebo/
+
