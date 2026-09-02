@@ -29,3 +29,22 @@ Dr. Ifeyinwa Aniebo
 
 🔗 LinkedIn: https://www.linkedin.com/in/ifyaniebo/
 
+<div align="center" style="border:1px solid #d0d7de; border-radius:8px; padding:16px; margin-top:16px;">
+
+### 🌐 ParaSight
+
+<a href="https://para-sight.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit-ParaSight-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ParaSight" />
+</a>
+
+<br/>
+
+🌐 Visit our website: <a href="https://para-sight.org/" target="_blank">https://para-sight.org/</a>
+
+<br/>
+
+<a href="https://para-sight.org/" target="_blank">
+  <img src="para-sight.png" alt="ParaSight preview" width="700" />
+</a>
+
+</div>
