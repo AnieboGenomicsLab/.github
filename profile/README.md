@@ -44,7 +44,7 @@ Dr. Ifeyinwa Aniebo
 <br/>
 
 <a href="https://para-sight.org/" target="_blank">
-  <img src="../para-sight.png" alt="ParaSight preview" width="800" />
+  <img src="../para-sight.png" alt="ParaSight preview" width="1200" />
 </a>
 
 </div>
