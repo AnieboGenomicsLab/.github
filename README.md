@@ -39,7 +39,7 @@ Dr. Ifeyinwa Aniebo
 
 <br/>
 
-https://para-sight.org/
+🌐 Visit our website: <a href="https://para-sight.org/" target="_blank">https://para-sight.org/</a>
 
 <br/>
 
